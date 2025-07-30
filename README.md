@@ -6,12 +6,6 @@
 
 ---
 
-### 📌 Repositórios em destaque
-
-- [**prog1**](https://github.com/annaraquelsnd/prog1) – Listas de exercícios da disciplina Programação I
-
----
-
 ### 💡 Habilidades
 
 - Linguagens: `C`, `Python`, `Java`, `php`, `HTML`, `CSS`, `JavaScript`
